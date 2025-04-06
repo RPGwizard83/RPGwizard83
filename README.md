@@ -120,10 +120,10 @@ Here are some ideas to get you started:
 
 ## 🎓 Certificaciones
 
-- 📜 **AWS Academy Cloud Foundations** – AWS Academy  
-- 📜 **Fundamentos de Ciberseguridad** – Cisco Networking Academy  
-- 📜 **Linux Essentials** – Linux Professional Institute (LPI)  
-- 📜 **Microsoft Azure Fundamentals (AZ-900)** – Microsoft  
+- 📜 **AWS Academy Cloud Foundations** – AWS Academy
+- 📜 **Fundamentos de Ciberseguridad** – Cisco Networking Academy
+- 📜 **Linux Essentials** – Linux Professional Institute (LPI)
+- 📜 **Microsoft Azure Fundamentals (AZ-900)** – Microsoft
 
 ---
 
@@ -131,22 +131,22 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="30" alt="AWS" />
-  <strong>AWS Academy Cloud Foundations</strong> – Amazon Web Services  
+  <strong>AWS Academy Cloud Foundations</strong> – Amazon Web Services
 </p>
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="30" alt="Cisco" />
-  <strong>Fundamentos de Ciberseguridad</strong> – Cisco Networking Academy  
+  <strong>Fundamentos de Ciberseguridad</strong> – Cisco Networking Academy
 </p>
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" alt="Linux" />
-  <strong>Linux Essentials</strong> – Linux Professional Institute (LPI)  
+  <strong>Linux Essentials</strong> – Linux Professional Institute (LPI)
 </p>
 
 <p>
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30" alt="Microsoft Azure" />
-  <strong>Microsoft Azure Fundamentals (AZ-900)</strong> – Microsoft  
+  <strong>Microsoft Azure Fundamentals (AZ-900)</strong> – Microsoft
 </p>
 
 
